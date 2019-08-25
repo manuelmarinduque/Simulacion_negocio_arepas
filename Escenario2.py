@@ -1,4 +1,12 @@
 # -*- coding: utf-8 -*-
+
+"""
+Integrantes:
+Victor Manuel Marín Duque - 201556071
+Yesid Fernando Andica - 201556001
+Stiven Sepulveda Cano - 201556087
+"""
+
 import random
 import simpy
 import numpy as np
